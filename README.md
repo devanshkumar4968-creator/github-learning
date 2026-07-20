@@ -16,6 +16,7 @@
 * Apply my technical skills to build practical software solutions
 * Gain hands-on industry experience in web development
 * Continuously learn and improve my problem-solving capabilities
+* Master Git and GitHub workflows
 
 ### One Interesting Fact About Myself
 * I am a State-Level Rifle Shooter representing Delhi!
