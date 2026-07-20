@@ -21,3 +21,6 @@
 
 ### One Interesting Fact About Myself
 * I am a State-Level Rifle Shooter representing Delhi!
+
+### Current Projects
+* Reviewing open source quantitative backtesting frameworks
