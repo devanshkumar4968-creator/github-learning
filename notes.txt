@@ -1,1 +1,10 @@
 Git Commands Notes:
+git init:
+Purpose: Initializes a new, empty Git repository.
+When used: To start tracking an existing local project directory with Git.
+Example: git init
+
+git status:
+Purpose: Displays the state of the working directory and the staging area.
+When used: To see which files are modified, staged, or untracked before committing.
+Example: git status
