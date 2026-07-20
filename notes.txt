@@ -8,3 +8,13 @@ git status:
 Purpose: Displays the state of the working directory and the staging area.
 When used: To see which files are modified, staged, or untracked before committing.
 Example: git status
+
+git commit:
+Purpose: Records changes to the repository's history.
+When used: After staging files, to save a snapshot of your current work.
+Example: git commit -m "Added initial project files"
+
+git push:
+Purpose: Uploads local repository content to a remote repository.
+When used: To share your committed changes with others on GitHub.
+Example: git push origin main
