@@ -18,3 +18,8 @@ git push:
 Purpose: Uploads local repository content to a remote repository.
 When used: To share your committed changes with others on GitHub.
 Example: git push origin main
+
+git fetch:
+Purpose: Downloads objects and refs from another repository.
+When used: To see what others have been working on without automatically merging those changes into your local work.
+Example: git fetch origin
