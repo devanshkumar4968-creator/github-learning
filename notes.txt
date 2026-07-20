@@ -23,3 +23,23 @@ git fetch:
 Purpose: Downloads objects and refs from another repository.
 When used: To see what others have been working on without automatically merging those changes into your local work.
 Example: git fetch origin
+
+Repositories: The main storage space for your project. It contains all files, folders, and the complete revision history of the code.
+
+Branches: A parallel version of the repository. It allows you to safely work on new features without breaking the main, stable version of the code.
+
+Forks: A personal copy of another user's repository that lives on your account. It allows you to freely experiment with their code.
+
+Pull Requests: A request to merge your customized branch or fork back into the main codebase, allowing others to review your code before it is integrated.
+
+Issues: A tracking tool used to log bugs, request new features, or assign specific tasks to team members within a repository.
+
+Stars: A bookmarking system. Starring a repository shows appreciation to the creator and makes it easy for you to find it later.
+
+Watch: Subscribing to a repository. Watching ensures you receive notifications about new discussions, issues, or pull requests in that project.
+
+Releases: Packaged, stable versions of your software that are ready for users to download, often including compiled code and release notes.
+
+Discussions: A built-in forum for the repository where the community can ask questions, share ideas, and chat without opening a formal "Issue."
+
+Actions: GitHub’s automation and CI/CD tool. It automatically runs scripts (like testing or deploying code) every time you push a command
